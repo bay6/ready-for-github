@@ -6,7 +6,7 @@
 * 年龄: 23
 * 学历: 大学本科(2013毕业)
 * 英语: 四级
-* 城市: 成都
+* 城市: 上海
 * Email: songjiayang1@gmail.com
 * Twitter: @small_fish__
 * Sina: [@jiayangsong](http://www.weibo.com/u/2509297884)
